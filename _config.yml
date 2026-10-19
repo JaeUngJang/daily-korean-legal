@@ -1,0 +1,5 @@
+# GitHub Pages site settings. Without a title Jekyll names the site after the repository, so every page's tab read
+# "Privacy Policy | daily-korean-legal". The app is Lightning TOPIK.
+title: Lightning TOPIK
+description: Privacy Policy, Terms of Use and Support for Lightning TOPIK, the TOPIK vocabulary app.
+lang: en
