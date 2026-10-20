@@ -4,7 +4,7 @@ title: Terms of Use
 
 # TERMS OF USE
 
-**Last updated October 18, 2026**
+**Last updated October 20, 2026**
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -28,11 +28,11 @@ Lightning TOPIK is a vocabulary app for the Test of Proficiency in Korean (TOPIK
 
 ## 3. CONTENT AND INTELLECTUAL PROPERTY
 
-The word levels use the "Vocabulary and Grammar Level List" (2017) published by the National Institute of Korean Language under the Korea Open Government License Type 1 (Attribution). The levels follow the International Standard Korean Curriculum, which is aligned to TOPIK levels 1 to 6; this is not an official TOPIK word list.
+**Source attribution (KOGL Type 1).** Word levels use the "Vocabulary and Grammar Level List" from the 2017 study on applying the International Standard Korean Curriculum (Stage 4) by 김중섭 and 13 co-researchers, published by the National Institute of Korean Language in 2017 under KOGL Type 1 (Korea Open Government License, Attribution). Free download: [korean.go.kr](https://www.korean.go.kr/front/reportData/reportDataView.do?mn_id=207&report_seq=932). Levels follow this curriculum, which is aligned to TOPIK levels 1 to 6. This is not an official TOPIK word list, and this app is not affiliated with or endorsed by the National Institute of Korean Language. The App's Profile links to this download; this section is the full credit.
 
 We are the owner or the licensee of all other intellectual property rights in our Services, including the App's design, word pictures and their motion, example sentences, study plans, graphics, and software. Provided you comply with these Legal Terms, we grant you a limited, non-exclusive, non-transferable license to use the App for your personal, non-commercial use.
 
-TOPIK is a registered trademark in Korea of the Republic of Korea (Ministry of Education) and is administered by the National Institute for International Education (NIIED). Lightning TOPIK is an independent study app and is not affiliated with, endorsed by, or sponsored by NIIED, the Ministry of Education, or the National Institute of Korean Language.
+**Trademarks.** TOPIK (Test of Proficiency in Korean) is a registered trademark in Korea of the Republic of Korea (Ministry of Education) and is administered by the National Institute for International Education (NIIED). Other test names and trademarks belong to their respective owners. Lightning TOPIK is an independent study app and is not affiliated with, endorsed by, or sponsored by NIIED, the Ministry of Education, or the National Institute of Korean Language.
 
 ## 4. NO GUARANTEE OF RESULTS
 
