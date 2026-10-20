@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated October 18, 2026**
+**Last updated October 20, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
@@ -46,7 +46,7 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
 The only information that leaves your device is:
 
-  * **Anonymous usage events.** The App reports a small set of events to Google Analytics for Firebase — for example which onboarding steps are viewed, when a study session ends and how many cards it had, how a card was rated (Again, Hard, Good or Easy), the TOPIK level and daily pace chosen for a plan, and when the purchase screen is opened or a purchase completes. Event details are fixed labels and counts, never text you type. These are sent with an app-generated install identifier (Firebase's app instance ID), your device's vendor identifier (IDFV), device model, OS and app version, preferred language, and an approximate country or region derived from your IP address. They contain nothing that identifies you personally. Deleting and reinstalling the App resets these identifiers.
+  * **Anonymous usage events.** The App reports a small set of events to Google Analytics for Firebase — for example which onboarding steps are viewed, when a study session ends and how many cards it had, how a card was rated (Again, Hard, Good or Easy), the TOPIK level and daily pace chosen for a plan, and when the purchase screen is opened or a purchase completes. Event details are fixed labels and counts, never text you type. These are sent with an app-generated install identifier (Firebase's app instance ID), device model, OS and app version, preferred language, and an approximate country or region that Google derives from your IP address (the App does not read your location, and Apple's vendor identifier (IDFV) is not collected: that collection is switched off in the App). They contain nothing that identifies you personally. Deleting and reinstalling the App resets these identifiers.
   * **Purchase information.** If you buy the Lifetime unlock, payment is handled entirely by Apple through the App Store. The App checks your purchase status with Apple on your device to unlock the App. We do not receive your name, Apple ID, or payment details.
   * **Support email.** If you contact us, we receive whatever you choose to include in your message.
 
