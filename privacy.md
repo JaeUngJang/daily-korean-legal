@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated October 20, 2026**
+**Last updated November 4, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
@@ -12,7 +12,7 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
   * Engage with us in other related ways, including any support conversations
 
-**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com).
+**Questions or concerns?** Reading this Privacy Notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at [ung@sai-korean.com](mailto:ung@sai-korean.com).
 
 ## SUMMARY OF KEY POINTS
 
@@ -75,7 +75,7 @@ Your study data stays on your device, protected by iOS. Usage events are sent to
 
 Depending on where you live (for example, the Republic of Korea, the European Economic Area, the United Kingdom, or California), you may have rights such as access, correction, deletion, and portability of your personal information.
 
-Because Lightning TOPIK keeps your study data only on your device, with no data on our side linked to you, you can exercise deletion directly at any time by deleting the App. If you have any privacy question or request, contact us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com) and we will respond in accordance with applicable data protection laws.
+Because Lightning TOPIK keeps your study data only on your device, with no data on our side linked to you, you can exercise deletion directly at any time by deleting the App. If you have any privacy question or request, contact us at [ung@sai-korean.com](mailto:ung@sai-korean.com) and we will respond in accordance with applicable data protection laws.
 
 ## 6. DO WE COLLECT INFORMATION FROM MINORS?
 
@@ -91,7 +91,7 @@ Yes, we will update this notice as necessary to stay compliant with relevant law
 
 ## 9. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?
 
-If you have questions or comments about this notice, you may email us at [jjw3435@gmail.com](mailto:jjw3435@gmail.com), or contact us by mail at:
+If you have questions or comments about this notice, you may email us at [ung@sai-korean.com](mailto:ung@sai-korean.com), or contact us by mail at:
 
 unglazed
 23, Bongeunsa-ro 50-gil, Gangnam-gu

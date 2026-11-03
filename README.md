@@ -12,7 +12,7 @@ Coming soon to the App Store.
 
 ## Contact
 
-[jjw3435@gmail.com](mailto:jjw3435@gmail.com)
+[ung@sai-korean.com](mailto:ung@sai-korean.com)
 
 ---
 

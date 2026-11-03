@@ -4,7 +4,7 @@ title: Terms of Use
 
 # TERMS OF USE
 
-**Last updated October 20, 2026**
+**Last updated November 4, 2026**
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -12,7 +12,7 @@ We are unglazed ("**Company**," "**we**," "**us**," "**our**"), a company regist
 
 We operate the mobile application Lightning TOPIK (the "**App**"), as well as any other related products and services that refer or link to these legal terms (the "**Legal Terms**") (collectively, the "**Services**").
 
-You can contact us by email at [jjw3435@gmail.com](mailto:jjw3435@gmail.com), or by mail to 23, Bongeunsa-ro 50-gil, Gangnam-gu, Seoul 06145, South Korea.
+You can contact us by email at [ung@sai-korean.com](mailto:ung@sai-korean.com), or by mail to 23, Bongeunsa-ro 50-gil, Gangnam-gu, Seoul 06145, South Korea.
 
 These Legal Terms constitute a legally binding agreement made between you and unglazed concerning your access to and use of the Services. By using the Services, you agree that you have read, understood, and agreed to be bound by all of these Legal Terms. If you do not agree with all of these Legal Terms, you must discontinue use immediately.
 
@@ -78,7 +78,7 @@ unglazed
 23, Bongeunsa-ro 50-gil, Gangnam-gu
 Seoul 06145
 South Korea
-[jjw3435@gmail.com](mailto:jjw3435@gmail.com)
+[ung@sai-korean.com](mailto:ung@sai-korean.com)
 
 ---
 
