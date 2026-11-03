@@ -6,7 +6,7 @@ title: Support
 
 Hello, I am Jae Ung, building Lightning TOPIK alone. I read every message myself and usually reply within 48 hours.
 
-**Email:** [jjw3435@gmail.com](mailto:jjw3435@gmail.com)
+**Email:** [ung@sai-korean.com](mailto:ung@sai-korean.com)
 
 ## Frequently Asked Questions
 
