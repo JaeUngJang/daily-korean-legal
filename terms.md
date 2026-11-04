@@ -18,13 +18,22 @@ These Legal Terms constitute a legally binding agreement made between you and un
 
 ## 1. OUR SERVICES
 
-Lightning TOPIK is a vocabulary app for the Test of Proficiency in Korean (TOPIK): word cards with moving pictures and audio, a study plan paced to your exam date, scheduled reviews, and a lock screen widget. The information provided when using the Services is not intended for distribution in any jurisdiction where such distribution would be contrary to law.
+Lightning TOPIK is a vocabulary app for the Test of Proficiency in Korean (TOPIK): word cards with moving pictures and audio, a study plan paced to your exam date, scheduled reviews, and a widget (on iPhone, on the lock screen; on Android, on the Home screen). It is offered for iPhone on the App Store and for Android on Google Play. The information provided when using the Services is not intended for distribution in any jurisdiction where such distribution would be contrary to law.
 
-## 2. FREE USE AND THE LIFETIME UNLOCK
+## 2. FREE USE, LIFETIME AND REMOVE ADS
+
+**On iPhone:**
 
   * **Free.** Every TOPIK level, five new words a day, and every review of the words you have started, at no charge.
   * **Lifetime.** A one-time in-app purchase that removes the daily limit on new words, for as long as the App is offered. It is not a subscription and is never charged again. The price is shown in the App before you buy.
   * **Payment and refunds.** Purchases are processed by Apple through the App Store under Apple's terms. Refund requests are handled by Apple ([reportaproblem.apple.com](https://reportaproblem.apple.com)). If you reinstall the App or use a new device signed in with the same Apple ID, tap Restore in the App to restore your purchase.
+
+**On Android:**
+
+  * **Free, with ads.** Every TOPIK level, every new word and every review, at no charge. The App shows ads from Google AdMob on the Home tab, above the word card during a review, and on the page after a session; never during onboarding or on your first day. The [Privacy Policy](privacy.md) (Section 2) explains the ads and your consent choices.
+  * **Remove ads.** A one-time in-app purchase that removes the ads, for as long as the App is offered. It adds no study features, since everything is already free, and it helps keep the App running. It is not a subscription and is never charged again. The price is shown in the App before you buy.
+  * **Payment and refunds.** Purchases are processed by Google through Google Play under Google Play's terms. Refund requests are handled by Google under the [Google Play refund policies](https://support.google.com/googleplay/answer/2479637). If you reinstall the App or use a new device signed in with the same Google account, the App finds your purchase when it opens; you can also tap Restore on the Remove ads screen in Profile.
+  * **Ads.** Ads are provided by Google. We do not choose, endorse or take responsibility for the products and services they advertise, and any dealings with an advertiser are between you and that advertiser.
 
 ## 3. CONTENT AND INTELLECTUAL PROPERTY
 
@@ -48,7 +57,7 @@ You may not access or use the Services for any purpose other than that for which
 
 ## 7. THIRD-PARTY SERVICES
 
-The App relies on Apple (App Store purchases and on-device frameworks) and Google Analytics for Firebase (anonymous usage events). We are not responsible for third-party services' availability.
+The App relies on Apple (App Store purchases and on-device frameworks), Google Analytics for Firebase (usage events), and, on Android, Google Play (purchases) and Google AdMob with its User Messaging Platform (ads and consent). We are not responsible for third-party services' availability.
 
 ## 8. SERVICES MANAGEMENT
 
