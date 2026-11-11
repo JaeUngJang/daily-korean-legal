@@ -4,11 +4,13 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated November 4, 2026**
+**Last updated November 11, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
   * Download and use our mobile application Lightning TOPIK (the "**App**") on iPhone or Android, including its widgets, or any other application of ours that links to this Privacy Notice
+
+  * Visit our website at [lightning-topik.com](https://lightning-topik.com) (the "**Site**")
 
   * Engage with us in other related ways, including any support conversations
 
@@ -21,6 +23,8 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 **Where is my study progress?** On your phone. Your words, reviews, plan, exam date, and settings are stored in the App's storage on your iPhone or Android phone, which the App's widget also reads. We run no server for the App and have no copy of your progress. If you use your phone's own backup (iCloud Backup on iPhone, Google's backup on Android), it may include your study progress; it is kept with Apple or Google, we cannot see it, and a reinstall or a new phone may restore your progress from it.
 
 **Do we use tracking or ads?** The iPhone App contains no advertising and no cross-app or cross-site trackers. It does not collect IDFA and shows no App Tracking Transparency prompt. The Android App is free and shows ads from Google AdMob until you buy Remove ads; where the law requires it (for example in the European Economic Area, the United Kingdom and Switzerland), it asks for your consent before the first ad — see Section 2. Both apps use Google Analytics for Firebase for product analytics (we read aggregated reports); Google, through Firebase Analytics, may also receive this data under Firebase's data-sharing settings — Section 3 sets out who receives what.
+
+**What about the website?** The Site has no accounts and sets no cookies. Cloudflare delivers it, and we count visits with Cloudflare Web Analytics, which stores nothing on your device and does not identify you — see Section 1.
 
 **How do I pay?** On iPhone, the Lifetime unlock is an Apple in-app purchase: Apple handles payment, and the App never receives your payment details or Apple ID. On Android, Remove ads is a Google Play in-app purchase: Google handles payment, and the App never receives your payment details or Google account; Google Play gives us order records only.
 
@@ -54,6 +58,8 @@ Apart from your phone's own backup and the online voice described under Device f
 
 **Device features.** On iPhone, word pronunciation is spoken by Apple's on-device speech synthesis. On Android, it is spoken by the text-to-speech engine set on your device (for example, Google's Speech Services); if that engine uses an online voice, the word being spoken is sent to the engine's provider to be read aloud. The App does not use the microphone or record audio. Study reminders are local notifications scheduled on your device, only if you allow notifications; we run no push notification server.
 
+**Our website.** The Site has no accounts, no forms and no advertising, and it sets no cookies. Cloudflare delivers it: as with any website, your browser sends your IP address, the page you ask for, the page that referred you and your browser's user agent, and Cloudflare uses them to deliver the page and to protect the Site from attacks; we see only aggregated traffic reports. Each page also loads Cloudflare Web Analytics, a small script that reports the page you viewed, the page that referred you, your browser, operating system and device type, an approximate country, and how fast the page loaded. It stores nothing on your device (no cookies or local storage) and does not fingerprint or identify you; we see only aggregated counts. The Site's store buttons link to the App Store and Google Play with a label for the page they are on, so Apple and Google can report to us, in aggregate, how many installs came from the Site.
+
 ## 2. THE ANDROID APP: ADS, CONSENT AND GOOGLE PLAY
 
 This section applies only to the Android App. The iPhone App shows no ads.
@@ -77,18 +83,20 @@ Google uses this information as described in [Google's Privacy Policy](https://p
 
 ## 3. WHEN AND WITH WHOM DO WE SHARE INFORMATION?
 
-We share information only with the companies that provide the services the App needs:
+We share information only with the companies that provide the services the App and the Site need:
 
   * **Google LLC** — provides Google Analytics for Firebase, which processes the usage events described in Section 1, and, in the Android App, Google AdMob, the Google Mobile Ads SDK and the User Messaging Platform described in Section 2, and Google Play's purchases. Through Firebase Analytics, Google may also receive these usage events and the information sent with them for its own purposes, such as improving its products and services, under Firebase's data-sharing settings, which we have left as they are. See [Google's Privacy Policy](https://policies.google.com/privacy).
   * **Apple Inc.** — processes App Store purchases and provides the on-device frameworks the iPhone App uses (speech, notifications, widgets). See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+  * **Cloudflare, Inc.** — hosts and delivers the Site and provides Cloudflare Web Analytics, described under Our website in Section 1. See [Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Who receives what: Google receives the usage events described in Section 1, which it may use for its own purposes as described above, and, in the Android App, the ads information described in Section 2. Apple, or Google on Android, processes the purchase you make. We use neither your study data nor your usage events for advertising or cross-app tracking. We may disclose information if required by law, but as described above, we hold effectively no information about you to disclose, beyond what you email us and, on Android, the order records Google Play gives us.
+Who receives what: Google receives the usage events described in Section 1, which it may use for its own purposes as described above, and, in the Android App, the ads information described in Section 2. Apple, or Google on Android, processes the purchase you make. Cloudflare processes visits to the Site. We use neither your study data nor your usage events for advertising or cross-app tracking. We may disclose information if required by law, but as described above, we hold effectively no information about you to disclose, beyond what you email us and, on Android, the order records Google Play gives us.
 
 ## 4. HOW LONG DO WE KEEP INFORMATION?
 
   * **Usage events:** kept by Google Analytics for Firebase under its data retention settings, after which Google deletes them automatically. Aggregated reports may persist beyond that, and data Google receives under Firebase's data-sharing settings is kept under Google's own policies.
   * **Ads information (Android):** kept by Google under its own retention policies; we receive only aggregated ad reports.
   * **On your device:** your study data, and on Android your ad consent choices, are kept until you delete the App. A backup of them made by your phone is kept with Apple or Google under your backup settings.
+  * **Website visits:** Cloudflare Web Analytics reports cover the previous six months; Cloudflare keeps its records of requests to the Site under its own policies. We see only aggregated reports.
   * **Support email:** kept as long as needed to resolve your inquiry.
 
 ## 5. HOW DO WE KEEP INFORMATION SAFE?
@@ -107,7 +115,7 @@ Our Services are not directed to children under 14 (or the equivalent minimum ag
 
 ## 8. INTERNATIONAL DATA TRANSFERS
 
-Google Analytics for Firebase, and in the Android App Google's ads services, may process information on servers located in the United States or other countries.
+Google Analytics for Firebase, and in the Android App Google's ads services, may process information on servers located in the United States or other countries. Cloudflare delivers the Site from data centers around the world and may process visit information in the United States or other countries.
 
 ## 9. DO WE MAKE UPDATES TO THIS NOTICE?
 
