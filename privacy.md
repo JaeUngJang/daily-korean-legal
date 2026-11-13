@@ -4,7 +4,7 @@ title: Privacy Policy
 
 # PRIVACY POLICY
 
-**Last updated November 11, 2026**
+**Last updated November 13, 2026**
 
 This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes how and why we might access, collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), including when you:
 
@@ -26,9 +26,9 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 
 **What about the website?** The Site has no accounts and sets no cookies. Cloudflare delivers it, and we count visits with Cloudflare Web Analytics, which stores nothing on your device and does not identify you — see Section 1.
 
-**How do I pay?** On iPhone, the Lifetime unlock is an Apple in-app purchase: Apple handles payment, and the App never receives your payment details or Apple ID. On Android, Remove ads is a Google Play in-app purchase: Google handles payment, and the App never receives your payment details or Google account; Google Play gives us order records only.
+**How do I pay?** On iPhone, the Lifetime unlock is an Apple in-app purchase: Apple handles payment, and the App never receives your payment details or Apple ID. On Android, Remove ads is a Google Play in-app purchase: Google handles payment, and the App never receives your payment details or Google account; Google Play gives us order records only. Both apps record purchases with RevenueCat, a service that stores purchase records under a random install ID the App generates, not under your name or account — see Section 1.
 
-**How do I delete my data?** Delete the App: that removes your study progress from your phone. If you also back up your phone, that backup follows your backup settings with Apple or Google; delete it or turn it off in your iCloud or Google account settings.
+**How do I delete my data?** Delete the App: that removes your study progress from your phone. If you also back up your phone, that backup follows your backup settings with Apple or Google; delete it or turn it off in your iCloud or Google account settings. To have RevenueCat's purchase records for your install deleted, email us — see Section 6.
 
 ## TABLE OF CONTENTS
 
@@ -52,7 +52,7 @@ This Privacy Notice for unglazed ("**we**," "**us**," or "**our**") describes ho
 Apart from your phone's own backup and the online voice described under Device features, the only information that leaves your device is:
 
   * **Usage events.** The App reports a small set of events to Google Analytics for Firebase — for example which onboarding steps are viewed, when a study session ends and how many cards it had, how a card was rated (Again, Hard, Good or Easy), the TOPIK level and daily pace chosen for a plan, and when the purchase screen is opened or a purchase completes (on Android, Google Analytics may also record the purchased product's ID, name and price automatically). Event details are fixed labels and counts, never text you type. These are sent with an app-generated install identifier (Firebase's app instance ID), device model, OS and app version, preferred language, and an approximate country or region that Google derives from your IP address (the App does not read your location; on iPhone, Apple's vendor identifier (IDFV) is not collected, and on Android, Google Analytics does not collect the advertising ID: both collections are switched off in the App). They contain nothing that identifies you personally. Deleting and reinstalling the App normally resets these identifiers. Google, through Firebase Analytics, may also receive these events and the information sent with them under Firebase's data-sharing settings, as described in Section 3.
-  * **Purchase information.** If you buy the Lifetime unlock on iPhone, payment is handled entirely by Apple through the App Store; if you buy Remove ads on Android, payment is handled entirely by Google through Google Play. The App checks your purchase status with Apple or Google on your device. The App does not receive your name, Apple ID, Google account, or payment details; on Android, Google Play gives us order records only.
+  * **Purchase information.** If you buy the Lifetime unlock on iPhone, payment is handled entirely by Apple through the App Store; if you buy Remove ads on Android, payment is handled entirely by Google through Google Play. The App checks your purchase status with Apple or Google on your device. The App does not receive your name, Apple ID, Google account, or payment details; on Android, Google Play gives us order records only. Both apps use RevenueCat, which records the purchase: the App sends RevenueCat a random install ID that it generates and stores on your device (in the iPhone Keychain; on Android, in Block Store and the App's storage, so it usually survives a reinstall on the same device), together with the purchase records of in-app purchases (product, price, currency, store country, dates and the store's transaction IDs), the App version, platform, your device's OS version and model, and the IP address of the connection. This sends no advertising identifier (no IDFA, IDFV or Android advertising ID), name, email, Apple ID, Google account, payment details or study data. Apple and Google also send RevenueCat notices of purchases and refunds of the App's in-app products, with the same install ID attached to the purchase. We use it to see sales, refunds and conversion reports per store and country; it is not used for advertising or tracking.
   * **Ads on Android.** The information Google's ads software collects to show ads, described in Section 2.
   * **Support email.** If you contact us, we receive whatever you choose to include in your message.
 
@@ -87,13 +87,15 @@ We share information only with the companies that provide the services the App a
 
   * **Google LLC** — provides Google Analytics for Firebase, which processes the usage events described in Section 1, and, in the Android App, Google AdMob, the Google Mobile Ads SDK and the User Messaging Platform described in Section 2, and Google Play's purchases. Through Firebase Analytics, Google may also receive these usage events and the information sent with them for its own purposes, such as improving its products and services, under Firebase's data-sharing settings, which we have left as they are. See [Google's Privacy Policy](https://policies.google.com/privacy).
   * **Apple Inc.** — processes App Store purchases and provides the on-device frameworks the iPhone App uses (speech, notifications, widgets). See [Apple's Privacy Policy](https://www.apple.com/legal/privacy/).
+  * **RevenueCat, Inc.** (United States) — records the purchases made in the App, as described under Purchase information in Section 1: the random install ID, purchase records, app, platform and device information, and IP address. It processes them on our behalf, so that we can see sales, refunds and conversion reports. See [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy).
   * **Cloudflare, Inc.** — hosts and delivers the Site and provides Cloudflare Web Analytics, described under Our website in Section 1. See [Cloudflare's Privacy Policy](https://www.cloudflare.com/privacypolicy/).
 
-Who receives what: Google receives the usage events described in Section 1, which it may use for its own purposes as described above, and, in the Android App, the ads information described in Section 2. Apple, or Google on Android, processes the purchase you make. Cloudflare processes visits to the Site. We use neither your study data nor your usage events for advertising or cross-app tracking. We may disclose information if required by law, but as described above, we hold effectively no information about you to disclose, beyond what you email us and, on Android, the order records Google Play gives us.
+Who receives what: Google receives the usage events described in Section 1, which it may use for its own purposes as described above, and, in the Android App, the ads information described in Section 2. Apple, or Google on Android, processes the purchase you make, and RevenueCat receives its record, as described above. Cloudflare processes visits to the Site. We use neither your study data nor your usage events for advertising or cross-app tracking. We may disclose information if required by law, but as described above, we hold effectively no information about you to disclose, beyond what you email us and, on Android, the order records Google Play gives us, and the purchase reports we see in RevenueCat.
 
 ## 4. HOW LONG DO WE KEEP INFORMATION?
 
   * **Usage events:** kept by Google Analytics for Firebase under its data retention settings, after which Google deletes them automatically. Aggregated reports may persist beyond that, and data Google receives under Firebase's data-sharing settings is kept under Google's own policies.
+  * **Purchase records:** kept by RevenueCat, under the random install ID, under its own retention policies. Deleting the App does not delete them; the ID is random and not linked to your identity.
   * **Ads information (Android):** kept by Google under its own retention policies; we receive only aggregated ad reports.
   * **On your device:** your study data, and on Android your ad consent choices, are kept until you delete the App. A backup of them made by your phone is kept with Apple or Google under your backup settings.
   * **Website visits:** Cloudflare Web Analytics reports cover the previous six months; Cloudflare keeps its records of requests to the Site under its own policies. We see only aggregated reports.
@@ -101,13 +103,13 @@ Who receives what: Google receives the usage events described in Section 1, whic
 
 ## 5. HOW DO WE KEEP INFORMATION SAFE?
 
-Your study data stays on your device, protected by its operating system; any backup of it that your phone makes is held and protected by Apple or Google. Usage events and ads information are sent to Google over encrypted connections (HTTPS/TLS). We have implemented appropriate technical measures designed to protect the limited information we process. However, no electronic transmission over the internet can be guaranteed to be 100% secure.
+Your study data stays on your device, protected by its operating system; any backup of it that your phone makes is held and protected by Apple or Google. Usage events and ads information are sent to Google, and purchase records to RevenueCat, over encrypted connections (HTTPS/TLS). We have implemented appropriate technical measures designed to protect the limited information we process. However, no electronic transmission over the internet can be guaranteed to be 100% secure.
 
 ## 6. WHAT ARE YOUR PRIVACY RIGHTS?
 
 Depending on where you live (for example, the Republic of Korea, the European Economic Area, the United Kingdom, or California), you may have rights such as access, correction, deletion, and portability of your personal information, and the right to withdraw consent.
 
-Because Lightning TOPIK keeps your study data on your device, with no study data on our side, you can delete it at any time by deleting the App, which removes it from your phone. A backup of it that your phone made follows your backup settings: delete it or turn it off in your iCloud or Google account settings. On Android, where the App asked for your consent, you can withdraw or change it in Profile › Privacy choices, and you can reset or delete your advertising ID in your Android settings. If you have any privacy question or request, contact us at [ung@sai-korean.com](mailto:ung@sai-korean.com) and we will respond in accordance with applicable data protection laws.
+Because Lightning TOPIK keeps your study data on your device, with no study data on our side, you can delete it at any time by deleting the App, which removes it from your phone. A backup of it that your phone made follows your backup settings: delete it or turn it off in your iCloud or Google account settings. On Android, where the App asked for your consent, you can withdraw or change it in Profile › Privacy choices, and you can reset or delete your advertising ID in your Android settings. To have RevenueCat's purchase records for your install deleted, email us and we will ask RevenueCat to delete them; deleting the App alone does not do this. If you have any privacy question or request, contact us at [ung@sai-korean.com](mailto:ung@sai-korean.com) and we will respond in accordance with applicable data protection laws.
 
 ## 7. DO WE COLLECT INFORMATION FROM MINORS?
 
@@ -115,7 +117,7 @@ Our Services are not directed to children under 14 (or the equivalent minimum ag
 
 ## 8. INTERNATIONAL DATA TRANSFERS
 
-Google Analytics for Firebase, and in the Android App Google's ads services, may process information on servers located in the United States or other countries. Cloudflare delivers the Site from data centers around the world and may process visit information in the United States or other countries.
+Google Analytics for Firebase, and in the Android App Google's ads services, may process information on servers located in the United States or other countries. RevenueCat is based in the United States and processes purchase records there or in other countries. Cloudflare delivers the Site from data centers around the world and may process visit information in the United States or other countries.
 
 ## 9. DO WE MAKE UPDATES TO THIS NOTICE?
 
