@@ -57,7 +57,7 @@ You may not access or use the Services for any purpose other than that for which
 
 ## 7. THIRD-PARTY SERVICES
 
-The App relies on Apple (App Store purchases and on-device frameworks), Google Analytics for Firebase (usage events), and, on Android, Google Play (purchases) and Google AdMob with its User Messaging Platform (ads and consent). We are not responsible for third-party services' availability.
+The App relies on Apple (App Store purchases and on-device frameworks), Google Analytics for Firebase (usage events), RevenueCat (purchase records; see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy)), and, on Android, Google Play (purchases) and Google AdMob with its User Messaging Platform (ads and consent). We are not responsible for third-party services' availability.
 
 ## 8. SERVICES MANAGEMENT
 
