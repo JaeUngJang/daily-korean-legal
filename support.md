@@ -12,7 +12,17 @@ Hello, I am Jae Ung, building Lightning TOPIK alone. I read every message myself
 
 ### Where is my progress stored?
 
-On your phone, iPhone or Android. There is no account and no server-side copy, so deleting the App removes your progress from your phone. If you use your phone's own backup (iCloud Backup on iPhone, Google's backup on Android), it may hold a copy that we cannot see, and a reinstall or a new phone may restore your progress from it; that backup follows your iCloud or Google account settings. See the [Privacy Policy](privacy.md).
+On your phone, with a copy in your own account: in your iCloud on iPhone, and in your phone's backup to Google on Android. There is no Lightning TOPIK account and no copy on our side, and we cannot see yours. Deleting the App removes your progress from your phone; the copy in your account stays until you delete it there. See the [Privacy Policy](privacy.md).
+
+### Will my progress move to a new phone?
+
+Yes, with no account to create. On iPhone, sign in to the same iCloud account and install the App: it restores your progress when it opens, and Profile › Progress backup shows when it last saved. On Android, set up the new phone from your Google backup (or reinstall the App with backup turned on); Profile › Progress backup shows when the phone last backed up.
+
+It does not move when:
+
+  * on iPhone, you are not signed in to iCloud, iCloud is switched off for Lightning TOPIK, or your iCloud storage is full;
+  * on Android, backup is turned off, the new phone is set up as new without restoring, or the phone has no Google services; on Android 12 and later, the old phone had no screen lock (then only a direct phone-to-phone transfer carries it); Android backs up about once a day, so the latest study may not be in the backup yet;
+  * you switch between iPhone and Android.
 
 ### Is this an official TOPIK word list?
 
