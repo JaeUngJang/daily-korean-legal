@@ -4,7 +4,7 @@ title: Terms of Use
 
 # TERMS OF USE
 
-**Last updated November 4, 2026**
+**Last updated November 18, 2026**
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -38,6 +38,8 @@ Lightning TOPIK is a vocabulary app for the Test of Proficiency in Korean (TOPIK
 ## 3. CONTENT AND INTELLECTUAL PROPERTY
 
 **Source attribution (KOGL Type 1).** Word levels use the "Vocabulary and Grammar Level List" from the 2017 study on applying the International Standard Korean Curriculum (Stage 4) by 김중섭 and 13 co-researchers, published by the National Institute of Korean Language in 2017 under KOGL Type 1 (Korea Open Government License, Attribution). Free download: [korean.go.kr](https://www.korean.go.kr/front/reportData/reportDataView.do?mn_id=207&report_seq=932). Levels follow this curriculum, which is aligned to TOPIK levels 1 to 6. This is not an official TOPIK word list, and this app is not affiliated with or endorsed by the National Institute of Korean Language. The App's Profile links to this download; this section is the full credit.
+
+**Source attribution (CC BY-SA 2.0 KR).** The Hangul pronunciations on word cards (for example 좋다 [조타]) are adapted from 우리말샘 (Urimalsaem, [opendict.korean.go.kr](https://opendict.korean.go.kr)), the open Korean dictionary of the National Institute of Korean Language, licensed under [CC BY-SA 2.0 KR](https://creativecommons.org/licenses/by-sa/2.0/kr/). We removed vowel-length marks, chose one entry where a spelling has several, and wrote the pronunciations of some loanwords by the Standard Pronunciation rules (표준 발음법). The adapted pronunciations are shared under the same licence. The National Institute of Korean Language does not endorse this app.
 
 We are the owner or the licensee of all other intellectual property rights in our Services, including the App's design, word pictures and their motion, example sentences, study plans, graphics, and software. Provided you comply with these Legal Terms, we grant you a limited, non-exclusive, non-transferable license to use the App for your personal, non-commercial use.
 
