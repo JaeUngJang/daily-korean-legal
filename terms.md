@@ -4,7 +4,7 @@ title: Terms of Use
 
 # TERMS OF USE
 
-**Last updated November 18, 2026**
+**Last updated November 19, 2026**
 
 ## AGREEMENT TO OUR LEGAL TERMS
 
@@ -35,6 +35,8 @@ Lightning TOPIK is a vocabulary app for the Test of Proficiency in Korean (TOPIK
   * **Payment and refunds.** Purchases are processed by Google through Google Play under Google Play's terms. Refund requests are handled by Google under the [Google Play refund policies](https://support.google.com/googleplay/answer/2479637). If you reinstall the App or use a new device signed in with the same Google account, the App finds your purchase when it opens; you can also tap Restore on the Remove ads screen in Profile.
   * **Ads.** Ads are provided by Google. We do not choose, endorse or take responsibility for the products and services they advertise, and any dealings with an advertiser are between you and that advertiser.
 
+**Friend codes and the squad price (iPhone and Android):** Each install of the App has a friend code. A new install can claim one friend's code, once, within 7 days of first opening the App. When three new installs have claimed one code, its owner and those three can each buy, separately, a one-time in-app purchase that gives the same as Lifetime on iPhone or Remove ads on Android, at a lower price shown in the App (the "squad price"). The squad price lasts 30 days from the moment the third friend claims the code; after that, three new installs can claim the owner's code again. If a lower price is on offer at the time, the App shows that price instead. The purchase is processed and refunded as described above. The squad price has no cash value and cannot be exchanged or transferred. We may refuse a claim, or end eligibility for the squad price, in cases of abuse, such as fake or repeated installs. The [Privacy Policy](privacy.md) (Section 1, Friend codes) explains what friend codes send and store.
+
 ## 3. CONTENT AND INTELLECTUAL PROPERTY
 
 **Source attribution (KOGL Type 1).** Word levels use the "Vocabulary and Grammar Level List" from the 2017 study on applying the International Standard Korean Curriculum (Stage 4) by 김중섭 and 13 co-researchers, published by the National Institute of Korean Language in 2017 under KOGL Type 1 (Korea Open Government License, Attribution). Free download: [korean.go.kr](https://www.korean.go.kr/front/reportData/reportDataView.do?mn_id=207&report_seq=932). Levels follow this curriculum, which is aligned to TOPIK levels 1 to 6. This is not an official TOPIK word list, and this app is not affiliated with or endorsed by the National Institute of Korean Language. The App's Profile links to this download; this section is the full credit.
@@ -59,7 +61,7 @@ You may not access or use the Services for any purpose other than that for which
 
 ## 7. THIRD-PARTY SERVICES
 
-The App relies on Apple (App Store purchases and on-device frameworks), Google Analytics for Firebase (usage events), RevenueCat (purchase records; see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy)), and, on Android, Google Play (purchases) and Google AdMob with its User Messaging Platform (ads and consent). We are not responsible for third-party services' availability.
+The App relies on Apple (App Store purchases, on-device frameworks and DeviceCheck), Google Analytics for Firebase (usage events), Google Cloud (our friend-code server), RevenueCat (purchase records; see [RevenueCat's Privacy Policy](https://www.revenuecat.com/privacy)), and, on Android, Google Play (purchases and Play Integrity) and Google AdMob with its User Messaging Platform (ads and consent). We are not responsible for third-party services' availability.
 
 ## 8. SERVICES MANAGEMENT
 
